@@ -1,1 +1,1 @@
-Template for making basic HTML, CSS, and JavaScript Websites. Includes a folder for storing images. The only file with any content is this README and the index.html file.
+This is a sample of a Portfolio Site to show to potential clients.
